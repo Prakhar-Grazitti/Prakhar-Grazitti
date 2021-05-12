@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prakhar-Grazitti
 - 👀 I’m interested in anything related to Salesforce
-- 🌱 I’m currently learning Salesforce from past 3 years 
+- 🌱 I’m learning Salesforce from past 3 years 
 - 💞️ I’m looking to collaborate on Some thing interesting and is related to salesforce.
 - 📫 How to reach me sfdc.prakhar@gmail.com
 
